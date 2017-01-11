@@ -1,6 +1,6 @@
 # Project-Download-GraphicEx
 
-![alt tag](https://raw.githubusercontent.com/tharyckgusmao/Project-Download-GraphicEx/edit/master/graphicexDownload.png)
+![alt tag](https://raw.githubusercontent.com/tharyckgusmao/Project-Download-GraphicEx/blob/master/graphicexDownload.png)
 
 
 Crawler Download automatizado arquivos Zippyshare Do GraphicEx.
