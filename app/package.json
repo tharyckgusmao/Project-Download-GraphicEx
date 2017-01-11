@@ -1,0 +1,15 @@
+{
+  "name": "DownloadGraphicEx-Zipp",
+  "productName": "Download",
+  "version": "1.0.0",
+  "description": "Download GraphicEx",
+  "main": "./main.js",
+  "author": {
+    "name": "thakaGusmao",
+    "email": "thakagusmao@gmail.com",
+    "url": "https://github.com/tharyckGusmao"
+  },
+  "license": "Eu",
+  "dependencies": {
+  }
+}
