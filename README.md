@@ -5,9 +5,20 @@
 
 Crawler Download automatizado arquivos Zippyshare Do GraphicEx.
 
+React + Redux + Electron;
+
 Suporte a listas.txt;
 
 Suporte a download Individual;
+
+Download Compilado : 
+				
+				Linux image: http:labs.greenarti.com/projetos/DownloadGraphicEx-Zipp-1.0.0-x86_64.AppImage
+				Linux Deb: http:labs.greenarti.com/projetos/DownloadGraphicEx-Zipp_1.0.0_amd64.deb 
+				Windows exe: http:labs.greenarti.com/projetos/DownloadGraphicEx-Zipp Setup 1.0.0.exe
+				Windows Zip: http:labs.greenarti.com/projetos/win-unpacked.zip
+				
+
 
 Exemplo Links : 
  
